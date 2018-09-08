@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr Anthony P. Atkinson"
 title_separator          : "-"
 name                     : &name "Dr Anthony Atkinson"
-description              : &description "personal description"
+description              : &description "Associate Professor in Psychology, Durham University, UK"
 url                      : https://atkinsonap.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "atkinsonap.github.io"
@@ -56,7 +56,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ author:
   name             : "Anthony P. Atkinson"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Durham, UK"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
