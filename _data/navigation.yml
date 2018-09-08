@@ -10,10 +10,7 @@ main:
     url: /teaching/    
     
   - title: "People"
-    url: /portfolio/
+    url: /people/
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
