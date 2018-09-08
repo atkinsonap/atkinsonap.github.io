@@ -225,7 +225,7 @@ defaults:
   # _people
   - scope:
       path: ""
-      type: people
+      type: portfolio
     values:
       layout: single
       author_profile: true
