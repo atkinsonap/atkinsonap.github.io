@@ -182,7 +182,7 @@ collections:
   people:
     output: true
     permalink: /:collection/:path/
-  talks:
+  stimuli:
     output: true
     permalink: /:collection/:path/
 
@@ -243,12 +243,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _stimuli
   - scope:
       path: ""
-      type: talks
+      type: portfolio
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 
