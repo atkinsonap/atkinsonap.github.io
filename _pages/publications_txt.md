@@ -11,25 +11,26 @@ Insch, P.M., Slessor, G., Phillips, L.H., Atkinson, A., & Warrington, J. (2015).
 Missana, M., Atkinson, A. P., & Grossmann, T. (2015). [Tuning the developing brain to emotional body expressions.](https://onlinelibrary.wiley.com/doi/abs/10.1111/desc.12209) Developmental Science, 18(2), 243-253.
 
 ## 2014
-Missana, M., Rajhans, P., Atkinson, A.P. & Grossmann, T. (2014). [Discrimination of fearful and happy body postures in 8-month-old infants: an event-related potential study.](http://dx.doi.org/10.3389/fnhum.2014.00531) Frontiers in Human Neuroscience, 8, 531. doi: 10.3389/fnhum.2014.00531
+Missana, M., Rajhans, P., Atkinson, A.P. & Grossmann, T. (2014). [Discrimination of fearful and happy body postures in 8-month-old infants: an event-related potential study.](https://dx.doi.org/10.3389/fnhum.2014.00531) Frontiers in Human Neuroscience, 8, 531. doi: 10.3389/fnhum.2014.00531
 
 ## 2013
-Atkinson, A.P. & Smithson, H.E. (2013). [Distinct contributions to facial emotion perception of foveated vs non-foveated facial features.](http://dx.doi.org/10.1177/1754073912457226) Emotion Review, 5(1), 30-35.
+Atkinson, A.P. & Smithson, H.E. (2013). [Distinct contributions to facial emotion perception of foveated vs non-foveated facial features.](https://dx.doi.org/10.1177/1754073912457226) Emotion Review, 5(1), 30-35.
 
-Atkinson, A.P. (2013). [Bodily expressions of emotion: Visual cues and neural mechanisms.]http://www.cambridge.org/us/academic/subjects/psychology/biological-psychology/cambridge-handbook-human-affective-neuroscience?format=PB&isbn=9780521171557) In J. Armony & P. Vuilleumier (Eds.), The Cambridge Handbook of Human Affective Neuroscience (pp.198-222). New York: Cambridge University Press.
+Atkinson, A.P. (2013). [Bodily expressions of emotion: Visual cues and neural mechanisms.](http://www.cambridge.org/us/academic/subjects/psychology/biological-psychology/cambridge-handbook-human-affective-neuroscience?format=PB&isbn=9780521171557) In J. Armony & P. Vuilleumier (Eds.), The Cambridge Handbook of Human Affective Neuroscience (pp.198-222). New York: Cambridge University Press.
 
-Shafir, T., Taylor, S.F., Atkinson, A.P., Langenecker, S.A., & Zubieta, J-K. (2013). Emotion regulation through execution, observation, and imagery of emotional movements. Brain and Cognition, 82(2), 219-227.
+Shafir, T., Taylor, S.F., Atkinson, A.P., Langenecker, S.A., & Zubieta, J-K. (2013). [Emotion regulation through execution, observation, and imagery of emotional movements.](https://doi.org/10.1016/j.bandc.2013.03.001) Brain and Cognition, 82(2), 219-227.
 
 ## 2012
-Thoresen, J.C., Vuong, Q.C., & Atkinson, A.P. (2012). First impressions: Gait cues drive reliable trait judgments. Cognition, 124(3), 261-271.
+Thoresen, J.C., Vuong, Q.C., & Atkinson, A.P. (2012). [First impressions: Gait cues drive reliable trait judgments.](https://doi.org/10.1016/j.cognition.2012.05.018) Cognition, 124(3), 261-271.
 
 Atkinson, A. P., & Ratcliffe, M. (2012). Introduction to the Special Section on 'Emotions and Feelings in Psychiatric Illness'. Emotion Review, 4, 119-121.
 
-Atkinson, A.P., Vuong, Q.C., & Smithson, H.E. (2012). Modulation of the face- and body-selective visual regions by the motion and emotion of point-light face and body stimuli. NeuroImage, 59, 1700-1712.
+Atkinson, A.P., Vuong, Q.C., & Smithson, H.E. (2012). [Modulation of the face- and body-selective visual regions by the motion and emotion of point-light face and body stimuli.](https://doi.org/10.1016/j.neuroimage.2011.08.073) NeuroImage, 59, 1700-1712.
 
-2011
-        Dzhelyova, M.P., Ellison, A., & Atkinson, A.P. (2011). Event-related repetitive TMS reveals distinct, critical roles for right OFA and bilateral pSTS in judging the trustworthiness and sex of faces. Journal of Cognitive Neuroscience, 23(10), 2782-2796.
-        Atkinson, A.P. & Adolphs, R. (2011). The neuropsychology of face perception: Beyond simple dissociations and functional selectivity. Philosophical Transactions of the Royal Society, Series B: Biological Sciences, 366, 1726-1738.
+## 2011
+Dzhelyova, M.P., Ellison, A., & Atkinson, A.P. (2011). [Event-related repetitive TMS reveals distinct, critical roles for right OFA and bilateral pSTS in judging the trustworthiness and sex of faces.](https://doi.org/10.1162/jocn.2011.21604) Journal of Cognitive Neuroscience, 23(10), 2782-2796.
+
+Atkinson, A.P. & Adolphs, R. (2011). [The neuropsychology of face perception: Beyond simple dissociations and functional selectivity.](https://dx.doi.org/10.1098/rstb.2010.0349) Philosophical Transactions of the Royal Society, Series B: Biological Sciences, 366, 1726-1738.
 
 ## 2010
 
