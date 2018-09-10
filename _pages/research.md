@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "" 
+title: "My research" 
 excerpt: "My research"
 author_profile: true
 redirect_from: 
