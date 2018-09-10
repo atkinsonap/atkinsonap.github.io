@@ -4,8 +4,6 @@ layout: archive
 permalink: /publications_txt/
 ---
 
-# Publications
-
 ## 2015
 
 Insch, P.M., Slessor, G., Phillips, L.H., Atkinson, A., & Warrington, J. (2015). The impact of aging and Alzheimer's disease on decoding emotion cues from bodily motion. AIMS Neuroscience, 2(3), 139.
