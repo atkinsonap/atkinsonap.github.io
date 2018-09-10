@@ -4,8 +4,6 @@ layout: archive
 permalink: /stimuli/
 ---
 
-A variety of common markup showing how the theme styles them.
-
 ## Body Movement Stimuli
 In one line of research, we are investigating the ability of neurologically intact and brain-damaged participants to perceive and recognize basic emotions from body movements and postures, in both full-light and point-light (or patch-light) conditions. The development of a large set of stimuli, as well as the initial recognition and intensity rating data for these stimuli, were reported in the following article:
 
