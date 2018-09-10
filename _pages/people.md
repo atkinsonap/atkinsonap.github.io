@@ -67,7 +67,7 @@ Agnieszka Jazdzyk: Are affective responses to eye contact related to autism-spec
 
 [Milena Dzhelyova](https://scholar.google.co.uk/citations?user=As6mn30AAAAJ&hl=en): Is STS critically involved in judging trustworthiness from the face?
 
-    – Milena went on to do a PhD at St. Andrews University, Scotland, under the supervision of Dr. Ines Jentzsch and Prof. David Perrett, from where she went to a post-doc position at the Universite catholique de Louvain, Belgium, working with Prof. Bruno Rossion.
+Milena went on to do a PhD at St. Andrews University, Scotland, under the supervision of Dr. Ines Jentzsch and Prof. David Perrett, from where she went to a post-doc position at the Universite catholique de Louvain, Belgium, working with Prof. Bruno Rossion.
 
 Xiaoyi Zou: An investigation of the effects of subliminal presentations of facial expressions on face adaptation and affective judgements.
 
