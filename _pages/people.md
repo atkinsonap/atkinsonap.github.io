@@ -4,174 +4,90 @@ layout: archive
 permalink: /people/
 ---
 
-A variety of common markup showing how the theme styles them.
+## Postgraduate Students & RAs
 
-# Header one
+Areas for supervision of postgraduate theses and undergraduate projects:
 
-## Header two
+Various topics in social perception and cognition, and social cognitive neuroscience, including (but not limited to): face perception, emotion perception, the perception of biological motion, empathy and emotional contagion.
 
-### Header three
 
-#### Header four
+### Current Postgraduate Research Students:
 
-##### Header five
+Jonathan Reardon (Ph.D., full-time, from October 2015): co-supervised with Dr. Maria Olkkonen (previously supervised by Dr. Paige Scalf). Thesis project: Perceptual grouping and visual attention.
 
-###### Header six
+Rachel Mowbray (Ph.D., full-time, from October 2017): co-supervised with Dr. Dorothy Cowie (primary supervisor). Thesis project: The impact of dance training on the development of whole-body movement.
 
-## Blockquotes
+Nazire Duran (Ph.D., full-time, from October 2016): with Dr. Amanda Ellison (second supervisor). Thesis project: Foveal versus extrafoveal visual processing of facial features underpinning emotion recognition.
 
-Single line blockquote:
+Robert Swalwell (Ph.D., full-time, from October 2014): co-supervised with Dr. Daniel Smith (primary supervisor). Thesis project: An investigation of inhibition of return to social vs. non-social stimuli.
 
-> Quotes are cool.
 
-## Tables
+### Past Postgraduate Research Students:
 
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+Yan Birch (Ph.D., full-time, October 2013-November 2017): co-supervised with Dr. Amanda Ellison (primary supervisor). Thesis: Re-examining rumination: An investigation into the relative contributions of reflective and brooding ruminative processes to problem solving
 
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
+John Thoresen (Ph.D., part-time, October 2007-September 2012). Thesis title: Body cues drive first impressions. John is now a post-doc at the Brain Mind Institute, Ecole Polytechnique de Federale de Lausanne, Switzerland. http://lgc.epfl.ch/page-34654-en.html
 
-## Definition Lists
+Sheena Laws (M.Sc. by research, part-time, completed August 2009, jointly supervised with Dr. Liz Meins) - Emotion perception in childhood: Relationships with attachment security and internal working models.
 
-Definition List Title
-:   Definition list division.
 
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
+### M.Sc./ M.A. Dissertation Students:
 
-#dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
+#### 2014-15:
 
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
+George Goss: The effect of transcranial direct current stimulation over inferior frontal gyrus on the recognition of facial expressions of emotion.
 
-## Unordered Lists (Nested)
+Kristy Lungo: Childhood Social Adversity Specific to Bullying as it relates to Cognitive Functioning and Auditory Hallucinatory-Like Experiences (co-supervised with Dr. David Smailes)
 
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
+#### 2013-14:
 
-## Ordered List (Nested)
+Jenny Scott: The effect of transcranial direct current stimulation over supramarginal gyrus on the recognition of facial and bodily expressions of emotion.
 
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
-      2. List item two
-      3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
+#### 2012-13:
 
-## Buttons
+Ilayda Turk: The role of eye fixation and saccades in the perception of emotion from the face.
 
-Make any link standout more when applying the `.btn` class.
+Jaime Galasso: Does exogenously cueing attention to facial features influence emotion recognition?
 
-## Notices
+#### 2011-12:
 
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
+Arathi Ruben: Alexithymia and the recognition of bodily expressions of emotion
 
-## HTML Tags
+Lina Rabi: The visual, auditory and visuo-auditory perception of emotion from dance.
 
-### Address Tag
+Lincoln Lo: The Role of Facial Expression in Recognising Happy and Angry Faces at Different Intensities
 
-<address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
-</address>
+#### 2010-11:
 
-### Anchor Tag (aka. Link)
+Kay Foreman: The temporal specificities of rOFA and rSTS involvement during judgements of trustworthiness from faces.
 
-This is an example of a [link](http://github.com "Github").
+Agnieszka Jazdzyk: Are affective responses to eye contact related to autism-spectrum quotient scores?
 
-### Abbreviation Tag
+#### 2008-09:
 
-The abbreviation CSS stands for "Cascading Style Sheets".
+Milena Dzhelyova: Is STS critically involved in judging trustworthiness from the face?
 
-*[CSS]: Cascading Style Sheets
+    – Milena went on to do a PhD at St. Andrews University, Scotland, under the supervision of Dr. Ines        Jentzsch and Prof. David Perrett, from where she went to a post-doc position at the Universite catholique de Louvain, Belgium, working with Prof. Bruno Rossion.
 
-### Cite Tag
+Xiaoyi Zou: An investigation of the effects of subliminal presentations of facial expressions on face adaptation and affective judgements.
 
-"Code is poetry." ---<cite>Automattic</cite>
+#### 2007-08:
 
-### Code Tag
+Ellen Mayfield and Sian Nooney: Investigating skin conductance and facial electromyographic responses to faces varying in trustworthiness
 
-You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
+Kate Leese and Ruth Jennings-Hobbs (jointly supervised with Dr. Sue Leekam) - The relationship of gesture and theory of mind to language ability in young children.
 
-### Strike Tag
+#### 2005-06:
 
-This tag will let you <strike>strikeout text</strike>.
+Conn Dorai-Raj & Brian Murray (jointly supervised with Dr. Sue Leekam) - The understanding of gesture in young children.
 
-### Emphasize Tag
 
-The emphasize tag should _italicize_ text.
+## Visiting Research Students and Assistants
 
-### Insert Tag
+Yessica Herrera - Visited from University of Veracruz, Mexico, August-December, 2015, funded by a Mexican scholarship: Consejo Nacional de Ciencia y Tecnología. Worked on a project for her Masters thesis, on the effects of psychological stress on dance performance.
 
-This tag should denote <ins>inserted</ins> text.
+Karthiha Anantharajah - Visited from the University of Osnabrück, Germany, September-December 2013, funded by ERASMUS. Worked on projects investigating the perception of trustworthiness, sex and emotion from faces.
 
-### Keyboard Tag
+Ayşe Işılay Konuk - Visited from Bogazici University, Istanbul, Turkey, June-September 2013, funded by ERASMUS. Worked on projects investigating the perception of trustworthiness, sex and emotion from faces.
 
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
 
-### Preformatted Tag
-
-This tag styles large blocks of code.
-
-<pre>
-.post-title {
-  margin: 0 0 5px;
-  font-weight: bold;
-  font-size: 38px;
-  line-height: 1.2;
-  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
-}
-</pre>
-
-### Quote Tag
-
-<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
-
-### Strong Tag
-
-This tag shows **bold text**.
-
-### Subscript Tag
-
-Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
-
-### Superscript Tag
-
-Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
-
-### Variable Tag
-
-This allows you to denote <var>variables</var>.
-
-{% include base_path %}
-{% for post in site.pages %}
-{% include archive-single.html %}
-{% endfor %}
