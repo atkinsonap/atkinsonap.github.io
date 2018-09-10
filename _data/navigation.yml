@@ -2,19 +2,19 @@
 main:
 
   - title: "Research"
-    url: /publications/
+    url: /markdown/
     
   - title: "Publications"
     url: /publications/
 
   - title: "Stimuli"
-    url: /stimuli/    
+    url: /markdown/    
 
   - title: "Teaching"
     url: /teaching/    
     
   - title: "People"
-    url: /people/
+    url: /markdown/
     
   - title: "CV"
     url: /cv/
