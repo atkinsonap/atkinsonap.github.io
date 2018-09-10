@@ -24,9 +24,9 @@ Robert Swalwell (Ph.D., full-time, from October 2014): co-supervised with Dr. Da
 
 ### Past Postgraduate Research Students:
 
-[Yan Birch](https://www.researchgate.net/profile/Yan_Birch) (Ph.D., full-time, October 2013-November 2017): co-supervised with Dr. Amanda Ellison (primary supervisor). Thesis: Re-examining rumination: An investigation into the relative contributions of reflective and brooding ruminative processes to problem solving
+[Yan Birch](https://www.researchgate.net/profile/Yan_Birch "Yan Birch") (Ph.D., full-time, October 2013-November 2017): co-supervised with Dr. Amanda Ellison (primary supervisor). Thesis: Re-examining rumination: An investigation into the relative contributions of reflective and brooding ruminative processes to problem solving
 
-[John Thoresen](http://epfl.academia.edu/JohnThoresen) (Ph.D., part-time, October 2007-September 2012). Thesis title: Body cues drive first impressions. John is now a post-doc at the Brain Mind Institute, Ecole Polytechnique de Federale de Lausanne, Switzerland.
+[John Thoresen](http://epfl.academia.edu/JohnThoresen "John Thoresen") (Ph.D., part-time, October 2007-September 2012). Thesis title: Body cues drive first impressions. John is now a post-doc at the Brain Mind Institute, Ecole Polytechnique de Federale de Lausanne, Switzerland.
 
 Sheena Laws (M.Sc. by research, part-time, completed August 2009, jointly supervised with Dr. Liz Meins) - Emotion perception in childhood: Relationships with attachment security and internal working models.
 
@@ -65,7 +65,7 @@ Agnieszka Jazdzyk: Are affective responses to eye contact related to autism-spec
 
 #### 2008-09:
 
-[Milena Dzhelyova](https://scholar.google.co.uk/citations?user=As6mn30AAAAJ&hl=en): Is STS critically involved in judging trustworthiness from the face?
+[Milena Dzhelyova](https://scholar.google.co.uk/citations?user=As6mn30AAAAJ&hl=en "Milena Dzhelyova"): Is STS critically involved in judging trustworthiness from the face?
 
   Milena went on to do a PhD at St. Andrews University, Scotland, under the supervision of Dr. Ines Jentzsch and Prof. David Perrett, from where she went to a post-doc position at the Universite catholique de Louvain, Belgium, working with Prof. Bruno Rossion.
 
