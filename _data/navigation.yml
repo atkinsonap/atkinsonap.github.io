@@ -8,13 +8,13 @@ main:
     url: /publications/
 
   - title: "Stimuli"
-    url: /markdown/    
+    url: /stimuli/    
 
   - title: "Teaching"
     url: /teaching/    
     
   - title: "People"
-    url: /markdown/
+    url: /people/
     
   - title: "CV"
     url: /cv/
