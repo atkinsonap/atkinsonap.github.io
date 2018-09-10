@@ -19,7 +19,11 @@ Atkinson, A.P., Tunstall, M.L., & Dittrich, W.H. (2007). Evidence for distinct c
 This latter study examined the effects on emotion recognition of inverting the whole-body emotional gestures and/ or reversing the direction of their motion. Click on the following links for example stimuli used in this study (QuickTime movie files):
 
 ### Example patch-light displays
-Upright, forward fear    PLbodyactor1Mfear3-up-rev.mov   Inverted, forward fear   Inverted, reversed fear
+Upright, forward fear
+
+Inverted, forward fear
+
+Inverted, reversed fear
 
 Upright, forward anger (1)   Upright, forward anger (2)
 
