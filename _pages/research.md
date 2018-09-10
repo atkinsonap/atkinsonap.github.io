@@ -3,9 +3,6 @@ permalink: /research/
 title: "My Research" 
 excerpt: "My research"
 author_profile: true
-redirect_from: 
-  - /research/
-  - /research.html
 ---
 
 ## Social cognitive and affective neuroscience
