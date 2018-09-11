@@ -34,40 +34,40 @@ Atkinson, A.P. & Adolphs, R. (2011). [The neuropsychology of face perception: Be
 
 ## 2010
 
-Peelen, M.V., Atkinson, A.P., & Vuilleumier, P. (2010). Supramodal representations of perceived emotions in the human brain. The Journal of Neuroscience, 30(30), 10127-10134.
+Peelen, M.V., Atkinson, A.P., & Vuilleumier, P. (2010). [Supramodal representations of perceived emotions in the human brain.](https://doi.org/10.1523/JNEUROSCI.2161-10.2010) The Journal of Neuroscience, 30(30), 10127-10134.
 
-Philip, R.C.M., Whalley, H.C., Stanfield, A.C., Sprengelmeyer, R., Santos, I.M., Young, A.W., Atkinson, A.P., Calder, A.J., Johnstone, E.C., Lawrie, S.M. & Hall, J. (2010). Deficits in facial, body movement and vocal emotional processing in autism spectrum disorders. Psychological Medicine, 40(11), 1919-1929.
+Philip, R.C.M., Whalley, H.C., Stanfield, A.C., Sprengelmeyer, R., Santos, I.M., Young, A.W., Atkinson, A.P., Calder, A.J., Johnstone, E.C., Lawrie, S.M. & Hall, J. (2010). [Deficits in facial, body movement and vocal emotional processing in autism spectrum disorders.](https://doi.org/10.1017/S0033291709992364) Psychological Medicine, 40(11), 1919-1929.
 
-Sprengelmeyer,, R. Atkinson, A.P., Sprengelmeyer, A., Mair-Walther, J., Jacobi, C. Wildemann, B. Difttrich, W.H. & Hacke, W. (2010). Disgust and fear recognition in paraneoplastic limbic encephalitis. Cortex, 46(5), 650-657.
+Sprengelmeyer,, R. Atkinson, A.P., Sprengelmeyer, A., Mair-Walther, J., Jacobi, C. Wildemann, B. Difttrich, W.H. & Hacke, W. (2010). [Disgust and fear recognition in paraneoplastic limbic encephalitis.](https://doi.org/10.1016/j.cortex.2009.04.007) Cortex, 46(5), 650-657.
  
-Atkinson, A.P., Heberlein, A.S. & Adolphs, R. (2010). Are people special? A brain’s eye view. In R.B. Adams, Jr., N. Ambady, K. Nakayama, & S. Shimojo (Eds.), The science of social vision (pp.363-392). New York: Oxford University Press.
+Atkinson, A.P., Heberlein, A.S. & Adolphs, R. (2010). Are people special? A brain’s eye view. In R.B. Adams, Jr., N. Ambady, K. Nakayama, & S. Shimojo (Eds.), [The science of social vision](https://dx.doi.org/10.1093/acprof:oso/9780195333176.001.0001) (pp.363-392). New York: Oxford University Press.
 
 ## 2009
-Atkinson, A.P. (2009). Impaired recognition of emotions from body movements is associated with elevated motion coherence thresholds in autism spectrum disorders. Neuropsychologia, 47(13), 3023-3029.
+Atkinson, A.P. (2009). [Impaired recognition of emotions from body movements is associated with elevated motion coherence thresholds in autism spectrum disorders.](https://doi.org/10.1016/j.neuropsychologia.2009.05.019) Neuropsychologia, 47(13), 3023-3029.
 
-Heberlein, A.S. & Atkinson, A.P. (2009). Neuroscientific evidence for simulation and shared substrates in emotion recognition: beyond faces. Emotion Review, 1(2), 162-177.
+Heberlein, A.S. & Atkinson, A.P. (2009). [Neuroscientific evidence for simulation and shared substrates in emotion recognition: beyond faces.](https://doi.org/10.1177/1754073908100441) Emotion Review, 1(2), 162-177.
 
-Atkinson, A.P. (2009). Emotion. In J. Symons & F.J. Calvo (Eds.), The Routledge Companion to the Philosophy of Psychology (pp.543-555). London: Routledge/Taylor & Francis.
+Atkinson, A.P. (2009). Emotion. In J. Symons & F.J. Calvo (Eds.), [The Routledge Companion to the Philosophy of Psychology](https://www.routledge.com/The-Routledge-Companion-to-Philosophy-of-Psychology/Robins-Symons-Calvo/p/book/9780415396325) (pp.543-555). London: Routledge/Taylor & Francis.
 
 ## 2008
-Dittrich, W.H. & Atkinson, A.P. (2008). The perception of bodily expressions of emotion and the implications for computing. In J. Or (Ed.), Affective Computing: Focus on Emotion Expression, Synthesis and Recognition (pp.157-184). Vienna: I-Tech Education and Publishing.
+Dittrich, W.H. & Atkinson, A.P. (2008). [The perception of bodily expressions of emotion and the implications for computing.]( https://dx.doi.org/10.5772/6181) In J. Or (Ed.), Affective Computing: Focus on Emotion Expression, Synthesis and Recognition (pp.157-184). Vienna: I-Tech Education and Publishing.
 
 ## 2007
-Peelen, M. V., Atkinson, A.P., Andersson, F., & Vuilleumier, P. (2007). Emotional modulation of body-selective visual areas. Social Cognitive and Affective Neuroscience, 2(4), 274-283.
+Peelen, M. V., Atkinson, A.P., Andersson, F., & Vuilleumier, P. (2007). [Emotional modulation of body-selective visual areas.](https://doi.org/10.1093/scan/nsm023) Social Cognitive and Affective Neuroscience, 2(4), 274-283.
 
-Atkinson, A.P., Heberlein, A.S., & Adolphs, R. (2007). Spared ability to recognise fear from static and moving whole-body cues following bilateral amygdala damage. Neuropsychologia, 45 (12), 2772-2782.
+Atkinson, A.P., Heberlein, A.S., & Adolphs, R. (2007). [Spared ability to recognise fear from static and moving whole-body cues following bilateral amygdala damage.](https://doi.org/10.1016/j.neuropsychologia.2007.04.019) Neuropsychologia, 45 (12), 2772-2782.
 
-Atkinson, A.P., Tunstall, M.L., & Dittrich, W.H. (2007). Evidence for distinct contributions of form and motion information to the recognition of emotions from body gestures. Cognition, 104, 59-72.
+Atkinson, A.P., Tunstall, M.L., & Dittrich, W.H. (2007). [Evidence for distinct contributions of form and motion information to the recognition of emotions from body gestures.](https://doi.org/10.1016/j.cognition.2006.05.005) Cognition, 104, 59-72.
 
-Atkinson, A.P. (2007). Face processing and empathy. In T.F.D. Farrow & P.W.R. Woodruff (Eds.), Empathy in mental illness (pp.360-385). Cambridge University Press.
+Atkinson, A.P. (2007). Face processing and empathy. In T.F.D. Farrow & P.W.R. Woodruff (Eds.), [Empathy in mental illness](http://www.cambridge.org/gb/academic/subjects/medicine/mental-health-psychiatry-and-clinical-psychology/empathy-mental-illness?format=HB&isbn=9780521847346) (pp.360-385). Cambridge University Press.
 
 ## 2006
 Atkinson, A.P. (2006). Review of Gut reactions: A perceptual theory of emotion. (J.J. Prinz, OUP, 2004). Philosophical Psychology, 19, 842-847.
 
 ## 2005
-Atkinson, A.P. Tipples, J., Burt, D.M. & Young, A.W. (2005). Asymmetric interference between sex and emotion in face perception. Perception & Psychophysics, 67, 1199-1213.
+Atkinson, A.P. Tipples, J., Burt, D.M. & Young, A.W. (2005). [Asymmetric interference between sex and emotion in face perception.](https://doi.org/10.3758/BF03193553) Perception & Psychophysics, 67, 1199-1213.
 
-Atkinson, A.P. & Adolphs, R. (2005). Visual emotion perception: Mechanisms and processes. In L.F. Barrett, P.M. Niedenthal, & P. Winkielman (Eds.), Emotion and consciousness (pp. 150-182). New York: Guilford Press. [Abstract.]
+Atkinson, A.P. & Adolphs, R. (2005). Visual emotion perception: Mechanisms and processes. In L.F. Barrett, P.M. Niedenthal, & P. Winkielman (Eds.), [Emotion and consciousness](https://books.google.co.uk/books/about/Emotion_And_Consciousness.html?id=eNsJy2sE7e8C&hl=en) (pp. 150-182). New York: Guilford Press.
 
 Atkinson, A.P. (2005). Staring at the back of someone’s head is no signal, and a sense of being stared at is no sense. Open Peer Commentary on ‘The sense of being stared at.’ Journal of Consciousness Studies, 12, 50-56.
 
