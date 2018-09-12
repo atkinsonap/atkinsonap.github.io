@@ -10,7 +10,9 @@ In one line of research, we are investigating the ability of neurologically inta
 
 Atkinson, A.P., Dittrich, W.H., Gemmell, A.J., & Young, A.W. (2004). Emotion perception from dynamic and static body expressions in point-light and full-light displays. Perception, 33, 717-746.
 
-Click here for an example patch-light body expression of emotion used in this study (a QuickTime movie file).
+Here's an example patch-light body expression of emotion used in this study.
+
+<video src="PLbodyactor10Fhappy1.mp4" width="320" height="200" controls preload></video>
 
 For a subsequent study that employed slightly modified versions of these stimuli, see:
 
