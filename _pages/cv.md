@@ -28,15 +28,11 @@ Work experience
 
 Publications
 ======
-  <ul>{% for post in site.publications_txt %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* (Under construction)
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* (Under construction)
   
 Service and leadership
 ======
