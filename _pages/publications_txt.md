@@ -2,6 +2,7 @@
 title: "Publications"
 layout: archive
 permalink: /publications_txt/
+author_profile: true
 ---
 
 ## 2015
