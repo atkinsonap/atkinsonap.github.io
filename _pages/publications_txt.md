@@ -69,17 +69,17 @@ Atkinson, A.P. Tipples, J., Burt, D.M. & Young, A.W. (2005). [Asymmetric interfe
 
 Atkinson, A.P. & Adolphs, R. (2005). Visual emotion perception: Mechanisms and processes. In L.F. Barrett, P.M. Niedenthal, & P. Winkielman (Eds.), [Emotion and consciousness](https://books.google.co.uk/books/about/Emotion_And_Consciousness.html?id=eNsJy2sE7e8C&hl=en) (pp. 150-182). New York: Guilford Press.
 
-Atkinson, A.P. (2005). Staring at the back of someone’s head is no signal, and a sense of being stared at is no sense. Open Peer Commentary on ‘The sense of being stared at.’ Journal of Consciousness Studies, 12, 50-56.
+Atkinson, A.P. (2005). [Staring at the back of someone’s head is no signal, and a sense of being stared at is no sense.](https://community.dur.ac.uk/a.p.atkinson/Atkinson_Sheldrake_commentary.pdf) Open Peer Commentary on ‘The sense of being stared at.’ Journal of Consciousness Studies, 12, 50-56.
 
 ## 2004
-Atkinson, A.P., Dittrich, W.H., Gemmell, A.J., & Young, A.W. (2004). Emotion perception from dynamic and static body expressions in point-light and full-light displays. Perception, 33, 717-746.
+Atkinson, A.P., Dittrich, W.H., Gemmell, A.J., & Young, A.W. (2004). [Emotion perception from dynamic and static body expressions in point-light and full-light displays.](https://doi.org/10.1068/p5096) Perception, 33, 717-746.
 
-Atkinson, A.P. & Wheeler, M. (2004). The grain of domains: The evolutionary-psychological case against domain-general cognition. Mind and Language, 19, 147-176.
+Atkinson, A.P. & Wheeler, M. (2004). [The grain of domains: The evolutionary-psychological case against domain-general cognition.](https://doi.org/10.1111/j.1468-0017.2004.00252.x) Mind and Language, 19, 147-176.
 
 ## Prior to 2004
 Atkinson, A.P. & Wheeler, M. (2003). Evolutionary psychology's grain problem and the cognitive neuroscience of reasoning. In: D. Over (Ed.), Evolution and the psychology of thinking: The debate. Hove, Sussex: Psychology Press.
 
-Tipples, J., Atkinson, A.P. & Young, A.W. (2002). The eyebrow frown: A salient social signal. Emotion, 2, 288-296.
+Tipples, J., Atkinson, A.P. & Young, A.W. (2002). [The eyebrow frown: A salient social signal.](https://dx.doi.org/10.1037/1528-3542.2.3.288) Emotion, 2, 288-296.
 
 Atkinson, A.P. (2002). Emotion-specific clues to the neural substrate of empathy. Behavioral and Brain Sciences, 25, 22-23. [Commentary on Preston, S.D. & de Waal, F.B.M. (2002). Empathy: Its ultimate and proximate bases. BBS, 25, 1-20.]
 
@@ -87,18 +87,18 @@ Wheeler, M. & Atkinson, A. (2001). Domains, brains, and evolution. In D.M. Walsh
 
 Atkinson, A.P. (2001). Pathological beliefs, damaged brains. Review article of Pathologies of belief. (M. Coltheart & M. Davies, Eds., Blackwells, 2000). Philosophy, Psychiatry & Psychology, 8, 225-229. [Special issue: On understanding and explaining schizophrenia, C. Hoerl, Ed.]
 
-Atkinson, A. P., Thomas, M. S. C., & Cleeremans, A. (2000). Consciousness: mapping the theoretical landscape. Trends in Cognitive Sciences, 4(10), 372-382. 
+Atkinson, A. P., Thomas, M. S. C., & Cleeremans, A. (2000). [Consciousness: mapping the theoretical landscape.](https://doi.org/10.1016/S1364-6613(00)01533-3) Trends in Cognitive Sciences, 4(10), 372-382. 
 
 Atkinson, A.P. (2000). Review of The descent of mind: Psychological perspectives on hominid evolution. (M.C. Corballis & S.E.G. Lea, Eds., OUP, 1999). Quarterly Journal of Experimental Psychology, 53B, 375-378.
 
-Atkinson, A.P. & Thomas, M.S.C. (1999). What makes us conscious? Journal of Intelligent Systems, 9 (5-6), 307-354. [Special Issue: Intelligent Systems, Consciousness and Cognition: New Approaches.]
+Atkinson, A.P. & Thomas, M.S.C. (1999). [What makes us conscious?](https://doi.org/10.1515/JISYS.1999.9.5-6.307) Journal of Intelligent Systems, 9 (5-6), 307-354.
 
 Thomas, M.S.C. & Atkinson, A.P. (1999). Quantities of qualia. Behavioral and Brain Sciences, 22, 169-170. [Commentary on O'Brien, G. and Opie, J. (1999). A connectionist theory of phenomenal experience. BBS, 22, 127‑196.]
 
-Atkinson, A.P. (1998). Persons, systems and subsystems: The explanatory scope of cognitive psychology. Acta Analytica, 20, 43-60.
+Atkinson, A.P. (1998). [Persons, systems and subsystems: The explanatory scope of cognitive psychology.](http://cogprints.org/337/) Acta Analytica, 20, 43-60.
 
-Atkinson, A. (1997). Persons, systems and subsystems. Connexions,1, 2-8.  [An online journal of cognitive science; see http://www.open.ac.uk/Arts/connex/.]
+Atkinson, A. (1997). Persons, systems and subsystems. Connexions,1, 2-8.
 
 Atkinson, A.P. & Davies, M. (1995). Consciousness without conflation. Behavioral and Brain Sciences, 18, 248-249. [Commentary on Block, N. (1995). On a confusion about a function of consciousness. BBS, 18, 227-287.]
 
-Rhodes, G., Brake, S. & Atkinson, A.P. (1993). What's lost in inverted faces? Cognition, 47, 25-57.
+Rhodes, G., Brake, S. & Atkinson, A.P. (1993). [What's lost in inverted faces?](https://doi.org/10.1016/0010-0277(93)90061-Y) Cognition, 47, 25-57.
