@@ -12,7 +12,7 @@ Atkinson, A.P., Dittrich, W.H., Gemmell, A.J., & Young, A.W. (2004). Emotion per
 
 Here's an example patch-light body expression of emotion used in this study.
 
-<video src="PLbodyactor10Fhappy1.mp4" width="320" height="200" controls preload></video>
+<video src="PLbodyExample.mp4" width="320" height="200" controls preload></video>
 
 For a subsequent study that employed slightly modified versions of these stimuli, see:
 
