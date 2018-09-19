@@ -6,6 +6,7 @@ permalink: /stimuli/
 # Under Construction: Updates soon!
 I am happy to share the visual stimuli described below for use in scientific research. If you would like to do so, then please contact me by email with your request: a.p.atkinson at durham.ac.uk
 ## Body Movement Stimuli
+### Emotional Expressions
 In one line of research, we are investigating the ability of neurologically intact and brain-damaged participants to perceive and recognize basic emotions from body movements and postures, in both full-light and point-light (or patch-light) conditions. The development of a large set of stimuli, as well as the initial recognition and intensity rating data for these stimuli, were reported in the following article:
 
 Atkinson, A.P., Dittrich, W.H., Gemmell, A.J., & Young, A.W. (2004). [Emotion perception from dynamic and static body expressions in point-light and full-light displays.](https://dx.doi.org/10.1068/p5096) Perception, 33, 717-746.
@@ -48,6 +49,7 @@ Here are some example movie clips:
     <source src="/assets/PLbodyactor8Manger1new.iphone.mp4" media="only screen and (max-device-width: 568px)"></source>
 </video>
 
+### The Perception of Personality Traits from Gait
 We have also developed a set of point-light stimuli that we used to assess the perception of personality traits from the way people walk. See
 
 Thoresen, J. C., Vuong, Q. C., & Atkinson, A. P. (2012). [First impressions: Gait cues drive reliable trait judgements.](https://dx.doi.org/10.1016/j.cognition.2012.05.018) Cognition, 124(3), 261-271.
