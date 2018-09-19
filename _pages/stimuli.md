@@ -3,7 +3,6 @@ title: "Stimuli"
 layout: archive
 permalink: /stimuli/
 ---
-# Under Construction: Updates soon!
 I am happy to share the visual stimuli described below for use in scientific research. If you would like to do so, then please contact me by email with your request: a.p.atkinson at durham.ac.uk
 ## Body Movement Stimuli
 ### Emotional Expressions
