@@ -14,9 +14,13 @@ Atkinson, A.P., Dittrich, W.H., Gemmell, A.J., & Young, A.W. (2004). [Emotion pe
 Here's an example patch-light body expression of emotion used in this study.
 
 <video width="480" height="300" controls preload> 
-    <source src="/assets/PLbodyExample.mp4"></source>
-    <source src="/assets/PLbodyExample.iphone.mp4" media="only screen and (max-device-width: 568px)"></source>
+    <source src="/assets/PLbodyactor6Fanger3.mp4 "></source>
+    <source src="/assets/PLbodyactor6Fanger3.iphone.mp4" media="only screen and (max-device-width: 568px)"></source>
     <source src="/assets/PLbodyExample.webm"></source> 
+</video>
+<video width="480" height="300" controls preload> 
+    <source src="/assets/FLbodyactor6Fanger3.mp4"></source>
+    <source src="/assets/FLbodyactor6Fanger3.iphone.mp4" media="only screen and (max-device-width: 568px)"></source>
 </video>
 
 For a subsequent study that employed slightly modified versions of these stimuli, see:
