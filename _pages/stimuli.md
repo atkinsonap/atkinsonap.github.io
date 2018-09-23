@@ -58,6 +58,7 @@ We have also developed a set of point-light stimuli that we used to assess the p
 Thoresen, J. C., Vuong, Q. C., & Atkinson, A. P. (2012). [First impressions: Gait cues drive reliable trait judgements.](https://dx.doi.org/10.1016/j.cognition.2012.05.018) Cognition, 124(3), 261-271.
 
 Here are some example movie clips:
+
 <video width="480" height="300" controls preload> 
     <source src="/assets/S23_WN_1C4_0pt8_150.mp4"></source>
     <source src="/assets/S23_WN_1C4_0pt8_150.iphone.mp4" media="only screen and (max-device-width: 568px)"></source>
