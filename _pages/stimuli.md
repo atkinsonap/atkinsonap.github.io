@@ -13,7 +13,7 @@ Atkinson, A.P., Dittrich, W.H., Gemmell, A.J., & Young, A.W. (2004). [Emotion pe
 Here's an example patch-light body expression of emotion used in this study.
 
 <video width="480" height="300" controls preload> 
-    <source src="/assets/PLbodyactor6Fanger3.mp4 "></source>
+    <source src="/assets/PLbodyactor6Fanger3.mp4"></source>
     <source src="/assets/PLbodyactor6Fanger3.iphone.mp4" media="only screen and (max-device-width: 568px)"></source>
     <source src="/assets/PLbodyExample.webm"></source> 
 </video>
@@ -58,4 +58,11 @@ We have also developed a set of point-light stimuli that we used to assess the p
 Thoresen, J. C., Vuong, Q. C., & Atkinson, A. P. (2012). [First impressions: Gait cues drive reliable trait judgements.](https://dx.doi.org/10.1016/j.cognition.2012.05.018) Cognition, 124(3), 261-271.
 
 Here are some example movie clips:
-
+<video width="480" height="300" controls preload> 
+    <source src="/assets/S23_WN_1C4_0pt8_150.mp4"></source>
+    <source src="/assets/S23_WN_1C4_0pt8_150.iphone.mp4" media="only screen and (max-device-width: 568px)"></source>
+</video>
+<video width="480" height="300" controls preload> 
+    <source src="/assets/S23_WN_1C4_1pt2_150.mp4"></source>
+    <source src="/assets/S23_WN_1C4_1pt2_150.iphone.mp4" media="only screen and (max-device-width: 568px)"></source>
+</video>
