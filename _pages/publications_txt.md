@@ -4,6 +4,7 @@ layout: archive
 permalink: /publications_txt/
 author_profile: true
 ---
+Liu, A., Harris, A.M., Atkinson, A.P., & Reed, C.L. (accepted). Dissociable processing of emotional and neutral body movements revealed by μ-alpha and beta Rhythms: Evidence from EEG. Social, Cognitive and Affective Neuroscience.
 
 Insch, P.M., Slessor, G., Phillips, L.H., Atkinson, A., & Warrington, J. (2015). [The impact of aging and Alzheimer's disease on decoding emotion cues from bodily motion.](http://www.aimspress.com/article/10.3934/Neuroscience.2015.3.139) AIMS Neuroscience, 2(3), 139.
 
