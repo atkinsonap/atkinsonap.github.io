@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# Welcome 
+# Welcome to the Atkinson Social Perception lab
 
 I am an Associate Professor in the Department of Psychology, Durham University, UK.
 
