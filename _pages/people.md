@@ -1,6 +1,6 @@
 ---
 title: "People"
-layout: archive
+layout: single
 permalink: /people/
 ---
 
