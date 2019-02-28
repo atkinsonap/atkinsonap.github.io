@@ -15,7 +15,7 @@ Various topics in social perception and cognition, and social cognitive neurosci
 
 [Jonathan Reardon](https://www.dur.ac.uk/psychology/staff/profile/?id=14443) (Ph.D., full-time, from October 2015): co-supervised with Dr. [Maria Olkkonen](https://www.dur.ac.uk/psychology/staff/profile/?id=14131) (previously supervised by Dr. Paige Scalf). Thesis project: Perceptual grouping and visual attention.
 
-[Rachel Mowbray](https://www.dur.ac.uk/psychology/staff/profile/?id=16720) (Ph.D., full-time, from October 2017): co-supervised with Dr. Dorothy Cowie (primary supervisor). Thesis project: The impact of dance training on the development of whole-body movement.
+[Rachel Mowbray](https://www.dur.ac.uk/psychology/staff/profile/?id=16720) (Ph.D., full-time, from October 2017): co-supervised with Dr. [Dorothy Cowie](https://www.dur.ac.uk/psychology/staff/profile/?id=11703) (primary supervisor). Thesis project: The impact of dance training on the development of whole-body movement.
 
 [Nazire Duran](https://www.dur.ac.uk/psychology/staff/profile/?id=15229) (Ph.D., full-time, from October 2016): with Prof. [Amanda Ellison](https://www.dur.ac.uk/psychology/staff/profile/?id=1932) (second supervisor). Thesis project: Foveal versus extrafoveal visual processing of facial features underpinning emotion recognition.
 
