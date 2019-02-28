@@ -13,13 +13,13 @@ Various topics in social perception and cognition, and social cognitive neurosci
 
 ### Current Postgraduate Research Students:
 
-Jonathan Reardon (Ph.D., full-time, from October 2015): co-supervised with Dr. Maria Olkkonen (previously supervised by Dr. Paige Scalf). Thesis project: Perceptual grouping and visual attention.
+[Jonathan Reardon](https://www.dur.ac.uk/psychology/staff/profile/?id=14443) (Ph.D., full-time, from October 2015): co-supervised with Dr. [Maria Olkkonen](https://www.dur.ac.uk/psychology/staff/profile/?id=14131) (previously supervised by Dr. Paige Scalf). Thesis project: Perceptual grouping and visual attention.
 
-Rachel Mowbray (Ph.D., full-time, from October 2017): co-supervised with Dr. Dorothy Cowie (primary supervisor). Thesis project: The impact of dance training on the development of whole-body movement.
+[Rachel Mowbray](https://www.dur.ac.uk/psychology/staff/profile/?id=16720) (Ph.D., full-time, from October 2017): co-supervised with Dr. Dorothy Cowie (primary supervisor). Thesis project: The impact of dance training on the development of whole-body movement.
 
-Nazire Duran (Ph.D., full-time, from October 2016): with Dr. Amanda Ellison (second supervisor). Thesis project: Foveal versus extrafoveal visual processing of facial features underpinning emotion recognition.
+[Nazire Duran](https://www.dur.ac.uk/psychology/staff/profile/?id=15229) (Ph.D., full-time, from October 2016): with Prof. [Amanda Ellison](https://www.dur.ac.uk/psychology/staff/profile/?id=1932) (second supervisor). Thesis project: Foveal versus extrafoveal visual processing of facial features underpinning emotion recognition.
 
-Robert Swalwell (Ph.D., full-time, from October 2014): co-supervised with Dr. Daniel Smith (primary supervisor). Thesis project: An investigation of inhibition of return to social vs. non-social stimuli.
+[Robert Swalwell](https://www.dur.ac.uk/psychology/staff/profile/?id=13485) (Ph.D., full-time, from October 2014): co-supervised with Dr. [Daniel Smith](https://www.dur.ac.uk/psychology/staff/profile/?id=2836) (primary supervisor). Thesis project: An investigation of inhibition of return to social vs. non-social stimuli.
 
 
 ### Past Postgraduate Research Students:
@@ -32,6 +32,9 @@ Sheena Laws (M.Sc. by research, part-time, completed August 2009, jointly superv
 
 
 ### M.Sc./ M.A. Dissertation Students:
+
+#### 2018-19:
+Sophia Monaghan: 
 
 #### 2014-15:
 
