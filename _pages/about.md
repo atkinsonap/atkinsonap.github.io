@@ -17,10 +17,10 @@ I am originally from New Zealand, where I completed BSc and MSc degrees in [Psyc
 
 My research focuses on the psychological and neural mechanisms underpinning our ability to perceive social information, such as emotions and personality traits, from faces and bodies. I am a member of the [Durham Centre for Imaging (DCI)](https://www.dur.ac.uk/psychology/research/dci/), of Durham University’s [Centre for Vision and Visual Cognition](https://www.dur.ac.uk/cvvc/), and of the Department of Psychology's [Perception, Action & Awareness](https://www.dur.ac.uk/psychology/research/paa/) research group.
 
-### Current funding:
+#### Current funding:
 •	ESRC/Open Research Area (ORA). “’EmoOrigin’: Production and perception of expressions of emotions in humans and their closest relatives.” Team member (PI: Dr [Mariska Kret](https://www.universiteitleiden.nl/en/staffmembers/mariska-kret#tab-1), Leiden University; PI: Dr [Zanna Clay](https://www.dur.ac.uk/psychology/staff/profile/?id=16059), Durham). £469,239, 2019-2022.
 
-### Some past funding:
+#### Some past funding:
 •	A Network Grant from the Arts & Humanities Research Council (UK), in collaboration with Prof. [Matthew Ratcliffe](https://www.york.ac.uk/philosophy/staff/ratcliffe-matthew/)
 •	A Short-Term Fellowship from the Human Frontiers Science Program
 •	Membership of the McDonnell Project in Philosophy and the Neurosciences
