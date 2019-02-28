@@ -34,7 +34,11 @@ Sheena Laws (M.Sc. by research, part-time, completed August 2009, jointly superv
 ### M.Sc./ M.A. Dissertation Students:
 
 #### 2018-19:
-Sophia Monaghan: 
+Sophia Monaghan: The role of the right temporoparietal junction in mental and self-rotation (jointly supervised with Dr [Andrew Martin](https://scholar.google.co.uk/citations?user=YcjFXKkAAAAJ&hl=en), visiting research fellow from University of Queensland)
+
+Laura Gordon: The role of the left dorsolateral prefrontal cortex on the sense of agency: a high-definition transcranial direct current study (jointly supervised with Dr [Andrew Martin](https://scholar.google.co.uk/citations?user=YcjFXKkAAAAJ&hl=en), visiting research fellow from University of Queensland)
+
+Ziyi Zhang: The role of bodily awareness in social cognition (jointly supervised with Dr [Andrew Martin](https://scholar.google.co.uk/citations?user=YcjFXKkAAAAJ&hl=en), visiting research fellow from University of Queensland)
 
 #### 2014-15:
 
