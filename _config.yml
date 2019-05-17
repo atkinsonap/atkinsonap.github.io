@@ -56,7 +56,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "@SocialVisionLab"
+  username               : &twitter "@SocialVisionLab"
 facebook:
   username               :
   app_id                 :
