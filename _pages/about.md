@@ -19,8 +19,8 @@ I am a member of the [Durham Centre for Imaging (DCI)](https://www.dur.ac.uk/psy
 
 ## About the lab:
 Our research focuses on the psychological and neural mechanisms underpinning our ability to perceive social information, such as emotions and personality traits, from faces and bodies. Current projects include:
-- foveal vs. extrafoveal processing of features within faces underpinning emotion perception, with [Hannah Smithson](https://www.psy.ox.ac.uk/team/hannah-smithson) and PhD student [Nazire Duran](https://www.dur.ac.uk/psychology/staff/profile/?id=15229)
-- visual perception of social interactions, with [Quoc Vuong](https://www.ncl.ac.uk/ion/staff/profile/quocvuong.html#background)
+- foveal vs. extrafoveal processing of features within faces underpinning emotion perception, with [Hannah Smithson](https://www.psy.ox.ac.uk/team/hannah-smithson) (Oxford University) and PhD student [Nazire Duran](https://www.dur.ac.uk/psychology/staff/profile/?id=15229)
+- visual perception of social interactions, with [Quoc Vuong](https://www.ncl.ac.uk/ion/staff/profile/quocvuong.html#background) (Newcastle University)
 
 We are also engaging in collaborative work on visuomotor control (with [Dorothy Cowie](https://www.dur.ac.uk/psychology/staff/profile/?id=11703) and [Rachel Mowbray](https://www.dur.ac.uk/psychology/staff/profile/?id=16720)) and visual attention (with [Dan Smith](https://www.dur.ac.uk/psychology/staff/profile/?id=2836)), and on social cognition and communication in primates (with [Zanna Clay](https://www.dur.ac.uk/psychology/staff/profile/?id=16059) and [Mariska Kret](https://www.universiteitleiden.nl/en/staffmembers/mariska-kret#tab-1)).
 
