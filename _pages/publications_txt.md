@@ -4,7 +4,7 @@ layout: archive
 permalink: /publications_txt/
 author_profile: true
 ---
-Mowbray, R., Gottwald, J.M., Zhao, M., Atkinson, A.P. & Cowie, D. (2019). [The development of visually guided stepping.](https://doi.org/10.1007/s00221-019-05629-5) Experimental Brain Research. https://rdcu.be/bPX7a
+Mowbray, R., Gottwald, J.M., Zhao, M., Atkinson, A.P. & Cowie, D. (2019). [The development of visually guided stepping.](https://doi.org/10.1007/s00221-019-05629-5) Experimental Brain Research. [https://rdcu.be/bPX7a](https://rdcu.be/bPX7a)
 
 Siqi-Liu, A., Harris, A.M., Atkinson, A.P., & Reed, C.L. (2018). [Dissociable processing of emotional and neutral body movements revealed by μ-alpha and beta rhythms.](https://doi.org/10.1093/scan/nsy094) Social, Cognitive and Affective Neuroscience, 12(4): 1269–1279.
 
