@@ -4,6 +4,8 @@ layout: archive
 permalink: /publications_txt/
 author_profile: true
 ---
+Mowbray, R., Gottwald, J.M., Zhao, M., Atkinson, A.P. & Cowie, D. (2019). [The development of visually guided stepping.] (https://doi.org/10.1007/s00221-019-05629-5) Experimental Brain Research.
+
 Siqi-Liu, A., Harris, A.M., Atkinson, A.P., & Reed, C.L. (2018). [Dissociable processing of emotional and neutral body movements revealed by μ-alpha and beta rhythms.](https://doi.org/10.1093/scan/nsy094) Social, Cognitive and Affective Neuroscience, 12(4): 1269–1279.
 
 Insch, P.M., Slessor, G., Phillips, L.H., Atkinson, A., & Warrington, J. (2015). [The impact of aging and Alzheimer's disease on decoding emotion cues from bodily motion.](http://www.aimspress.com/article/10.3934/Neuroscience.2015.3.139) AIMS Neuroscience, 2(3), 139.
