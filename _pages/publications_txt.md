@@ -4,7 +4,7 @@ layout: archive
 permalink: /publications_txt/
 author_profile: true
 ---
-Atkinson, A.P. & Smithson, H.E. (forthcoming). The Impact on Emotion Classification Performance and Gaze Behavior of Foveal vs. Extrafoveal Processing of Facial Features. Journal of Experimental Psychology: Human Perception and Performance.
+Atkinson, A.P. & Smithson, H.E. (forthcoming). The impact on emotion classification performance and gaze behavior of foveal vs. extrafoveal processing of facial features. Journal of Experimental Psychology: Human Perception and Performance.
 
 Mowbray, R., Gottwald, J.M., Zhao, M., Atkinson, A.P. & Cowie, D. (2019). [The development of visually guided stepping.](https://doi.org/10.1007/s00221-019-05629-5) Experimental Brain Research. [https://rdcu.be/bPX7a](https://rdcu.be/bPX7a)
 
