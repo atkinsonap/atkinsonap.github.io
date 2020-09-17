@@ -13,9 +13,11 @@ Various topics in social perception and cognition, and social cognitive neurosci
 
 ### Current Postgraduate Research Students:
 First/principal supervision:
+
 Applications welcome! Please contact me for further information.
 
 Second/co-supervision:
+
 [Rachel Mowbray](https://www.dur.ac.uk/psychology/staff/profile/?id=16720) (Ph.D., full-time, from October 2017): co-supervised with Dr. [Dorothy Cowie](https://www.dur.ac.uk/psychology/staff/profile/?id=11703) (primary supervisor). Thesis project: The impact of dance training on the development of whole-body movement.
 
 [Jake Brooker](https://www.dur.ac.uk/psychology/staff/profile/?id=17969) (Ph.D., full-time, from 2019): co-supervised with Dr. [Zanna Clay](https://www.dur.ac.uk/research/directory/staff/?id=16059) (primary supervisor). Thesis project: A comparison of the empathic tendencies and conflict management strategies of our closest living relatives; chimpanzees (Pan troglodytes) and bonobos (Pan paniscus)
