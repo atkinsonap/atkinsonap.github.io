@@ -12,15 +12,21 @@ Various topics in social perception and cognition, and social cognitive neurosci
 
 
 ### Current Postgraduate Research Students:
+First/principal supervision:
+Applications welcome! Please contact me for further information.
+
+Second/co-supervision:
 [Rachel Mowbray](https://www.dur.ac.uk/psychology/staff/profile/?id=16720) (Ph.D., full-time, from October 2017): co-supervised with Dr. [Dorothy Cowie](https://www.dur.ac.uk/psychology/staff/profile/?id=11703) (primary supervisor). Thesis project: The impact of dance training on the development of whole-body movement.
 
-[Nazire Duran](https://www.dur.ac.uk/psychology/staff/profile/?id=15229) (Ph.D., full-time, from October 2016): with Prof. [Amanda Ellison](https://www.dur.ac.uk/psychology/staff/profile/?id=1932) (second supervisor). Thesis project: Foveal versus extrafoveal visual processing of facial features underpinning emotion recognition.
+[Jake Brooker](https://www.dur.ac.uk/psychology/staff/profile/?id=17969) (Ph.D., full-time, from 2019): co-supervised with Dr. [Zanna Clay](https://www.dur.ac.uk/research/directory/staff/?id=16059) (primary supervisor). Thesis project: A comparison of the empathic tendencies and conflict management strategies of our closest living relatives; chimpanzees (Pan troglodytes) and bonobos (Pan paniscus)
 
 
 ### Past Postgraduate Research Students:
-[Robert Swalwell](https://www.dur.ac.uk/psychology/staff/profile/?id=13485) (Ph.D., full-time, from October 2014): co-supervised with Dr. [Daniel Smith](https://www.dur.ac.uk/psychology/staff/profile/?id=2836) (primary supervisor). Thesis project: An investigation of inhibition of return to social vs. non-social stimuli.
+[Nazire Duran](https://www.dur.ac.uk/psychology/staff/profile/?id=15229) (Ph.D., full-time, from 2016-2020): with Prof. [Amanda Ellison](https://www.dur.ac.uk/psychology/staff/profile/?id=1932) (second supervisor). Thesis project: Foveal versus extrafoveal visual processing of facial features underpinning emotion recognition.
 
-[Yan Birch](https://www.researchgate.net/profile/Yan_Birch "Yan Birch") (Ph.D., full-time, October 2013-November 2017): co-supervised with Dr. Amanda Ellison (primary supervisor). Thesis: Re-examining rumination: An investigation into the relative contributions of reflective and brooding ruminative processes to problem solving
+[Robert Swalwell](https://www.dur.ac.uk/psychology/staff/profile/?id=13485) (Ph.D., full-time, 2014-2019): co-supervised with Dr. [Daniel Smith](https://www.dur.ac.uk/psychology/staff/profile/?id=2836) (primary supervisor). Thesis project: An investigation of inhibition of return to social vs. non-social stimuli.
+
+[Yan Birch](https://www.researchgate.net/profile/Yan_Birch "Yan Birch") (Ph.D., full-time, 2013-2017): co-supervised with Dr. Amanda Ellison (primary supervisor). Thesis: Re-examining rumination: An investigation into the relative contributions of reflective and brooding ruminative processes to problem solving
 
 [John Thoresen](http://epfl.academia.edu/JohnThoresen "John Thoresen") (Ph.D., part-time, October 2007-September 2012). Thesis title: Body cues drive first impressions. John is now a post-doc at the Brain Mind Institute, Ecole Polytechnique de Federale de Lausanne, Switzerland.
 
