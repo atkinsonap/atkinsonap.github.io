@@ -4,6 +4,8 @@ layout: archive
 permalink: /publications_txt/
 author_profile: true
 ---
+Duran, N., & ATKINSON, A. P. (2020, September 30). Foveal processing of emotion-informative facial features. https://doi.org/10.31234/osf.io/f3nzy - preprint
+
 Ross, P. & Atkinson, A.P. (2020). [Expanding simulation models of emotional understanding: The case for different modalities, body-state simulation prominence and developmental trajectories.](https://dx.doi.org/10.3389/fpsyg.2020.00309) Frontiers in Psychology. http://dx.doi.org/10.3389/fpsyg.2020.00309
 
 Atkinson, A.P. & Smithson, H.E. (2020). [The impact on emotion classification performance and gaze behavior of foveal vs. extrafoveal processing of facial features.](https://dx.doi.org/10.1037/xhp0000712) Journal of Experimental Psychology: Human Perception and Performance, 46(3), 292-312. [http://dro.dur.ac.uk/29981/](http://dro.dur.ac.uk/29981/)
