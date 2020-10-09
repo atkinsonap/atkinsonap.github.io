@@ -26,6 +26,7 @@ We are also engaging in collaborative work on visuomotor control (with [Dorothy 
 
 #### Current funding:
 •	ESRC/Open Research Area (ORA). “’EmoOrigin’: Production and perception of expressions of emotions in humans and their closest relatives.” Team member (PI: Dr [Mariska Kret](https://www.universiteitleiden.nl/en/staffmembers/mariska-kret#tab-1), Leiden University; PI: Dr [Zanna Clay](https://www.dur.ac.uk/psychology/staff/profile/?id=16059), Durham). £469,239, 2019-2022.
+•	Dunhill Medical Trust, “Can cognitive tests differentiate Progressive Supranuclear Palsy from Parkinson's Disease?” Co-I (PI: Dr Daniel Smith, Durham University; Co-I: Dr Alison Lane, Durham University). £148,494, 2020-2023.
 
 #### Some past funding:
 •	A Network Grant from the Arts & Humanities Research Council (UK), in collaboration with Prof. [Matthew Ratcliffe](https://www.york.ac.uk/philosophy/staff/ratcliffe-matthew/)
