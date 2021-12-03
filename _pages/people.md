@@ -18,7 +18,7 @@ Applications welcome! Please contact me for further information.
 
 Second/co-supervision:
 
-[Philip Howlett] (https://pure.qub.ac.uk/en/persons/philip-howlett) (Ph.D., full-time, from 2020): co-supervised with [Dr. Magdalena Rychlowska] (https://pure.qub.ac.uk/en/persons/magdalena-rychlowska) (primary supervisor) and [Dr. Gülseli Baysu] (https://pure.qub.ac.uk/en/persons/g%C3%BClseli-baysu) (second supervisor). Thesis project: Cross-cultural Variation in Friendship Habits and Emotion Recognition.
+[Philip Howlett](https://pure.qub.ac.uk/en/persons/philip-howlett) (Ph.D., full-time, from 2020): co-supervised with [Dr. Magdalena Rychlowska](https://pure.qub.ac.uk/en/persons/magdalena-rychlowska) (primary supervisor) and [Dr. Gülseli Baysu](https://pure.qub.ac.uk/en/persons/g%C3%BClseli-baysu) (second supervisor). Thesis project: Cross-cultural Variation in Friendship Habits and Emotion Recognition.
 
 [Jake Brooker](https://www.dur.ac.uk/psychology/staff/profile/?id=17969) (Ph.D., full-time, from 2019): co-supervised with Dr. [Zanna Clay](https://www.dur.ac.uk/research/directory/staff/?id=16059) (primary supervisor). Thesis project: A comparison of the empathic tendencies and conflict management strategies of our closest living relatives; chimpanzees (Pan troglodytes) and bonobos (Pan paniscus)
 
