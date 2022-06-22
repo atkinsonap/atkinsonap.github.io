@@ -27,7 +27,7 @@ We are also engaging in collaborative work on visuomotor control (with [Dorothy 
 #### Current funding:
 •	ESRC/Open Research Area (ORA). “’EmoOrigin’: Production and perception of expressions of emotions in humans and their closest relatives.” Team member (PI: Dr [Mariska Kret](https://www.universiteitleiden.nl/en/staffmembers/mariska-kret#tab-1), Leiden University; PI: Dr [Zanna Clay](https://www.durham.ac.uk/staff/zanna-e-clay/), Durham). £469,239, 2020-2023.
 
-•	[Dunhill Medical Trust](https://dunhillmedical.org.uk), “Can cognitive tests differentiate Progressive Supranuclear Palsy from Parkinson's Disease?” Co-I (PI: [Dr Daniel Smith](https://www.durham.ac.uk/staff/daniel-smith2/), Durham University; Co-I: [Dr Alison Lane](https://www.durham.ac.uk/staff/a-r-lane/), Durham University). £148,494, 2022-2024. [Click here for project website.](http://motorbiasproject.com/can-cognitive-tests-differentiate-psp-and-parkinsons-disease)
+•	[Dunhill Medical Trust](https://dunhillmedical.org.uk), “Can cognitive tests differentiate Progressive Supranuclear Palsy from Parkinson's Disease?” Co-I (PI: [Dr Daniel Smith](https://www.durham.ac.uk/staff/daniel-smith2/), Durham University; Co-I: [Dr Alison Lane](https://www.durham.ac.uk/staff/a-r-lane/), Durham University), PDRA: [Dr Alexis Cheviet](https://www.researchgate.net/profile/Alexis-Cheviet). £148,494, 2022-2024. [Click here for project website.](http://motorbiasproject.com/can-cognitive-tests-differentiate-psp-and-parkinsons-disease)
 
 #### Some past funding:
 •	A Network Grant from the Arts & Humanities Research Council (UK), in collaboration with Prof. [Matthew Ratcliffe](https://www.york.ac.uk/philosophy/staff/ratcliffe-matthew/)
