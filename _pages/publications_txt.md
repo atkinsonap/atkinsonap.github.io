@@ -4,6 +4,8 @@ layout: archive
 permalink: /publications_txt/
 author_profile: true
 ---
+Heesen, R., Szenteczski, M. A., Kim, Y., Kret, M., Atkinson, A. P., Upton, Z., & Clay, Z. (2023, May 31). Audience Effects on Human Emotional Face and Hand Movements. [https://psyarxiv.com/bjsa4](https://psyarxiv.com/bjsa4) (A PsyArXiv preprint.)
+
 Atkinson, A. P. (2022, July 6). A Data-Driven Approach to Discovering the Optimal Fixation Locations for Identification of Emotions in the Face. [https://doi.org/10.31234/osf.io/v87hg](https://doi.org/10.31234/osf.io/v87hg) (A PsyArXiv preprint.)
 
 Duran, N., & Atkinson, A. P. (2021). Foveal processing of emotion-informative facial features. PLoS One, 16(12), e0260814. [https://doi.org/10.1371/journal.pone.0260814](https://doi.org/10.1371/journal.pone.0260814) (Prior preprint available at: [https://doi.org/10.31234/osf.io/f3nzy](https://doi.org/10.31234/osf.io/f3nzy))
