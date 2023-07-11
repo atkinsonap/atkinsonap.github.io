@@ -20,10 +20,9 @@ Second/co-supervision:
 
 [Philip Howlett](https://pure.qub.ac.uk/en/persons/philip-howlett) (Ph.D., full-time, from 2020): co-supervised with [Dr. Magdalena Rychlowska](https://pure.qub.ac.uk/en/persons/magdalena-rychlowska) (primary supervisor) and [Dr. Gülseli Baysu](https://pure.qub.ac.uk/en/persons/g%C3%BClseli-baysu) (second supervisor). Thesis project: Cross-cultural Variation in Friendship Habits and Emotion Recognition.
 
+### Past Postgraduate Research Students:
 [Jake Brooker](https://www.dur.ac.uk/psychology/staff/profile/?id=17969) (Ph.D., full-time, from 2019): co-supervised with Dr. [Zanna Clay](https://www.dur.ac.uk/research/directory/staff/?id=16059) (primary supervisor). Thesis project: A comparison of the empathic tendencies and conflict management strategies of our closest living relatives; chimpanzees (Pan troglodytes) and bonobos (Pan paniscus)
 
-
-### Past Postgraduate Research Students:
 [Rachel Mowbray](https://www.countydurhamsport.com/meet-the-team/rachel-mowbray/) (Ph.D., full-time, 2017-2020): co-supervised with Dr. [Dorothy Cowie](https://www.dur.ac.uk/psychology/staff/profile/?id=11703) (primary supervisor). Thesis project: The impact of dance training on the development of whole-body movement.
 
 [Nazire Duran](https://www.dur.ac.uk/psychology/staff/profile/?id=15229) (Ph.D., full-time, from 2016-2020): with Prof. [Amanda Ellison](https://www.dur.ac.uk/psychology/staff/profile/?id=1932) (second supervisor). Thesis project: Foveal versus extrafoveal visual processing of facial features underpinning emotion recognition.
