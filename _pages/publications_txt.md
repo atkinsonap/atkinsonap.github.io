@@ -4,6 +4,8 @@ layout: archive
 permalink: /publications_txt/
 author_profile: true
 ---
+Atkinson, A.P., & Vuong, Q.C. (2023). [Incidental visual processing of spatiotemporal cues in communicative interactions: An fMRI investigation.](https://doi.org/10.1162/imag_a_00048) Imaging Neuroscience.
+
 Heesen, R., Szenteczski, M. A., Kim, Y., Kret, M., Atkinson, A. P., Upton, Z., & Clay, Z. (2023, May 31). Audience Effects on Human Emotional Face and Hand Movements. [https://psyarxiv.com/bjsa4](https://psyarxiv.com/bjsa4) (A PsyArXiv preprint.)
 
 Howlett, P., Baysu, G., Atkinson, A. P., Jungert, T., & Rychlowska, M. (2023). [Friendship habits questionnaire: A measure of group- versus dyadic-oriented socializing styles.](https://doi.org/10.1371/journal.pone.0285767) PLoS One, 18(6), e0285767. https://doi.org/10.1371/journal.pone.0285767
