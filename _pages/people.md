@@ -17,6 +17,7 @@ First/principal supervision:
 Applications welcome! Please contact me for further information.
 
 Second/co-supervision:
+
 [Lauryn Clucas](https://www.durham.ac.uk/staff/lauryn-j-clucas/) (Ph.D., full-time, 2023 - present): co-supervised with [Dr. Sam Forbes](https://www.durham.ac.uk/staff/samuel-forbes/) (primary supervisor). Thesis project: How gesture affects language development in infants, with the aim of facilitating word learning and avoiding language delay.
 
 ### Past Postgraduate Research Students:
