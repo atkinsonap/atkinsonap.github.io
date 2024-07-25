@@ -18,7 +18,7 @@ I am originally from New Zealand, where I completed BSc and MSc degrees in [Psyc
 I am a member of the [Durham Centre for Imaging (DCI)](https://www.dur.ac.uk/psychology/research/centres/imaging/), of Durham University’s [Centre for Vision and Visual Cognition](https://www.dur.ac.uk/cvvc/), and of the Department of Psychology's [Cognitive Neuroscience](https://www.dur.ac.uk/psychology/research/groups/cognitive/) research group.
 
 ## About the lab:
-Our research focuses on the psychological and neural mechanisms underpinning our ability to perceive social information, such as emotions and personality traits, from faces and bodies. Current projects include:
+Our research focuses on the visual perception of social information, investigating the psychological and neural mechanisms underpinning our ability to infer information about others’ emotions, identity, personality traits, actions, and interactions, from their facial and bodily postures and movement. Current projects include:
 - foveal vs. extrafoveal processing of features within faces underpinning emotion perception, with [Hannah Smithson](https://www.psy.ox.ac.uk/team/hannah-smithson) (Oxford University) and former PhD student (now Assistant Professor) [Nazire Duran](https://www.durham.ac.uk/staff/nazire-duran/). This work is guided by the principles that vision is active rather than passive and that there are quantitative and qualitative differences between foveal and extrafoveal (or peripheral) vision that determine how we see and how we interact with the world.
 - visual perception of social interactions, with [Quoc Vuong](https://www.ncl.ac.uk/medical-sciences/people/profile/quocvuong.html) (Newcastle University)
 
