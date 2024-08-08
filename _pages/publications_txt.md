@@ -4,9 +4,9 @@ layout: archive
 permalink: /publications_txt/
 author_profile: true
 ---
-Atkinson, A.P., & Vuong, Q.C. (2023). [Incidental visual processing of spatiotemporal cues in communicative interactions: An fMRI investigation.](https://doi.org/10.1162/imag_a_00048) Imaging Neuroscience. https://doi.org/10.1162/imag_a_00048
-
 Heesen, R., Szenteczski, M. A., Kim, Y., Kret, M., Atkinson, A. P., Upton, Z., & Clay, Z. (in press, 2024). Impact of social context on human facial and gestural emotion expressions. iScience, [https://doi.org/10.1016/j.isci.2024.110663](https://doi.org/10.1016/j.isci.2024.110663) An earlier version of this article was released as a PsyArXiv preprint under the title 'Audience Effects on Human Emotional Face and Hand Movements' [https://psyarxiv.com/bjsa4](https://psyarxiv.com/bjsa4)
+
+Atkinson, A.P., & Vuong, Q.C. (2023). [Incidental visual processing of spatiotemporal cues in communicative interactions: An fMRI investigation.](https://doi.org/10.1162/imag_a_00048) Imaging Neuroscience. https://doi.org/10.1162/imag_a_00048
 
 Howlett, P., Baysu, G., Atkinson, A. P., Jungert, T., & Rychlowska, M. (2023). [Friendship habits questionnaire: A measure of group- versus dyadic-oriented socializing styles.](https://doi.org/10.1371/journal.pone.0285767) PLoS One, 18(6), e0285767. https://doi.org/10.1371/journal.pone.0285767
 
