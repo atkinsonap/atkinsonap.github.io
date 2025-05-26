@@ -40,6 +40,11 @@ Sheena Laws (M.Sc. by research, part-time, completed August 2009, jointly superv
 
 ### M.Sc./ M.A. Dissertation Students:
 
+#### 2024-25:
+Tia Ghandi: Bodily Emotion Recognition in Progressive Supranuclear Palsy and Parkinson’s Disease.
+
+Roxanne Van Vuuren: From Vigilance to Avoidance: Understanding How Selective Attention Biases and Gaze Avoidance Influence Social Threat Perception in Social Anxiety Using Eye-Tracking.
+
 #### 2018-19:
 Sophia Monaghan: The role of the right temporoparietal junction in mental and self-rotation (jointly supervised with Dr [Andrew Martin](https://scholar.google.co.uk/citations?user=YcjFXKkAAAAJ&hl=en), visiting research fellow from University of Queensland)
 
