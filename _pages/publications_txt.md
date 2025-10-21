@@ -4,6 +4,8 @@ layout: archive
 permalink: /publications_txt/
 author_profile: true
 ---
+Smith, D.T., Cheviet, A., Atkinson, A.P., & Lane, A. (in press). User perspectives on the usefulness of prism glasses as a visual aid for people with Progressive Supranuclear Palsy. Journal of Visual Impairment & Blindness. [https://durham-repository.worktribe.com/output/4665853](https://durham-repository.worktribe.com/output/4665853)
+
 Atkinson, A. P., Duran, N., Skraga, A., Winterbottom, A., & Wright, J. D. (2025). [Distinct contributions of foveal and extrafoveal visual information to emotion judgments and gaze behavior for faces.](https://doi.org/10.1167/jov.25.8.4) Journal of Vision, 25(8), 4-4. https://doi.org/10.1167/jov.25.8.4
 
 Heesen, R., Szenteczski, M. A., Kim, Y., Kret, M., Atkinson, A. P., Upton, Z., & Clay, Z. (2024). Impact of social context on human facial and gestural emotion expressions. iScience, 27(11), 110663. [https://doi.org/10.1016/j.isci.2024.110663](https://doi.org/10.1016/j.isci.2024.110663) An earlier version of this article was released as a PsyArXiv preprint under the title 'Audience Effects on Human Emotional Face and Hand Movements' [https://psyarxiv.com/bjsa4](https://psyarxiv.com/bjsa4)
