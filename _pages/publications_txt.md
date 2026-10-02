@@ -4,9 +4,11 @@ layout: archive
 permalink: /publications_txt/
 author_profile: true
 ---
+Cheviet, A., Lane, A.R., Atkinson, A. P., Nath, U., Mcdonald, C., Wiblin, L., Walker, R. W., & Smith, D. T. (in press, 2026). Visual Search as a Cognitive Marker to Discriminate Progressive Supranuclear Palsy from Parkinson's Disease. _Brain Communications_.
+
 Howlett, P., Baysu, G., Jungert, T., Atkinson, A. P., Namba, S., Sato, W., Mizuno, K., & Rychlowska, M. (2026). [Friendships are more group-oriented in the United Kingdom than in Japan.](https://doi.org/https://doi.org/10.1111/bjso.70040) _British Journal of Social Psychology, 65_(1), e70040. https://doi.org/https://doi.org/10.1111/bjso.70040
 
-Smith, D.T., Cheviet, A., Atkinson, A.P., & Lane, A. (in press). User perspectives on the usefulness of prism glasses as a visual aid for people with Progressive Supranuclear Palsy. _Journal of Visual Impairment & Blindness_. [https://durham-repository.worktribe.com/output/4665853](https://durham-repository.worktribe.com/output/4665853)
+Smith, D.T., Cheviet, A., Atkinson, A.P., & Lane, A. (in press, 2026). User perspectives on the usefulness of prism glasses as a visual aid for people with Progressive Supranuclear Palsy. _Journal of Visual Impairment & Blindness_. [https://durham-repository.worktribe.com/output/4665853](https://durham-repository.worktribe.com/output/4665853)
 
 Atkinson, A. P., Duran, N., Skraga, A., Winterbottom, A., & Wright, J. D. (2025). [Distinct contributions of foveal and extrafoveal visual information to emotion judgments and gaze behavior for faces.](https://doi.org/10.1167/jov.25.8.4) _Journal of Vision, 25_(8), 4-4. https://doi.org/10.1167/jov.25.8.4
 
