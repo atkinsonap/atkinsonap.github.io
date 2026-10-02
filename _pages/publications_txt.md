@@ -4,7 +4,7 @@ layout: archive
 permalink: /publications_txt/
 author_profile: true
 ---
-Cheviet, A., Lane, A.R., Atkinson, A. P., Nath, U., Mcdonald, C., Wiblin, L., Walker, R. W., & Smith, D. T. (in press, 2026). Visual Search as a Cognitive Marker to Discriminate Progressive Supranuclear Palsy from Parkinson's Disease. _Brain Communications_.
+Cheviet, A., Lane, A.R., Atkinson, A.P., Nath, U., Mcdonald, C., Wiblin, L., Walker, R.W., & Smith, D. T. (in press, 2026). Visual Search as a Cognitive Marker to Discriminate Progressive Supranuclear Palsy from Parkinson's Disease. _Brain Communications_.
 
 Howlett, P., Baysu, G., Jungert, T., Atkinson, A. P., Namba, S., Sato, W., Mizuno, K., & Rychlowska, M. (2026). [Friendships are more group-oriented in the United Kingdom than in Japan.](https://doi.org/https://doi.org/10.1111/bjso.70040) _British Journal of Social Psychology, 65_(1), e70040. https://doi.org/https://doi.org/10.1111/bjso.70040
 
